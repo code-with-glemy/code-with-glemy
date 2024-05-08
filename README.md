@@ -1,4 +1,4 @@
-Hi 👋 My name is code\_with\_glemy
+Hi viewer👋 myself code\_with\_glemy
 ==================================
 
 Backend Developer and Cyber Security Analyst
