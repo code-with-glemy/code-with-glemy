@@ -8,8 +8,8 @@ Lets code the world with creativity !!!
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [glementsanthoshofficial@gmail.com](mailto:glementsanthoshofficial@gmail.com)
-* 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on Cyber projects
+* 🧠  I'm eager to research and learn new DEV technologies
+* 🤝  I'm open to collaborating on Banking/IOT/GerAI/CyberSec projects
 * ⚡  I'm batman in coding world !!!
 
 <a href="https://www.github.com/code-with-glemy" target="_blank" rel="noreferrer"><img
