@@ -1,7 +1,7 @@
 Hi viewer👋 myself code\_with\_glemy
 ==================================
 
-Backend Developer and Cyber Security Analyst
+Backend Developer and Cyber Security Enthusiast
 --------------------------------------------
 
 Lets code the world with creativity !!!
